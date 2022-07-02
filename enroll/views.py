@@ -44,3 +44,6 @@ def delete_data(request, id):
         pi.delete()
         return HttpResponseRedirect('/')
 
+
+
+# this is a small project only for testing
